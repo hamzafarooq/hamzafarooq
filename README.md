@@ -1,13 +1,3 @@
-## I set my daily goals only on Monday
-
-![LLMs](https://img.shields.io/badge/LLMs-informational?style=flat&logo=LLMs&logoColor=white&color=2bbc8a)
-![XGB](https://img.shields.io/badge/XGB-informational?style=flat&logo=XGB&logoColor=white&color=2bbc8a)
-![LGBM](https://img.shields.io/badge/LGBM-informational?style=flat&logo=LGBM&logoColor=white&color=2bbc8a)
-![Forecasting](https://img.shields.io/badge/Forecasting-informational?style=flat&logo=Forecasting&logoColor=white&color=2bbc8a)
-![IR](https://img.shields.io/badge/IR-informational?style=flat&logo=IR&logoColor=white&color=2bbc8a)
-
----
-
 ### About Me
 
 **Founder & CEO at Traversaal.ai**
