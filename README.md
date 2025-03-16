@@ -1,5 +1,7 @@
 ### About Me
 
+Hi, I am Hamza!
+
 **Founder & CEO at Traversaal.ai**
 
 I am the founder and CEO of [Traversaal.ai](https://traversaal.ai), a company dedicated to providing scalable, customizable, and cost-efficient language model solutions for enterprises. Our mission is to revolutionize conversational search with a strong emphasis on security, compliance, user management, and session handling. Our flagship product, Apollo, exemplifies this commitment by offering state-of-the-art capabilities in knowledge retrieval. :contentReference[oaicite:0]{index=0}
