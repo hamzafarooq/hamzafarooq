@@ -35,6 +35,7 @@ Data Science/ML is vast and growing at an exponential rate;
 
 This github is my attempt to figure some of it and share my knowledge
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=building-llm-applications-from-scratch)](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=advanced-llms-course)](https://github.com/hamzafarooq/advanced-llms-course)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=algos)](https://github.com/hamzafarooq/algos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=DataStructures-Algo)](https://github.com/hamzafarooq/DataStructures-Algo)
