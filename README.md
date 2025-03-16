@@ -18,7 +18,7 @@ With over 15 years of experience in machine learning, my career has spanned mult
 
 - **LARGE Initiative**: I spearheaded the LLM Adaptation & Research for General Enterprises (LARGE) initiative, aiming to advance state-of-the-art AI into real-world enterprise applications.
 
-- **Urdu Llama**: I led the development of Urdu Llama, the first state-of-the-art Urdu language model, addressing linguistic and cultural inequities in AI. :contentReference[oaicite:3]{index=3}
+- **ALIF**: I led the development of Urdu LLM, the first state-of-the-art Urdu language model, addressing linguistic and cultural inequities in AI. 
 
 **Public Speaking and Training**
 
