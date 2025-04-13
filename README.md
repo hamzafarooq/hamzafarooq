@@ -8,7 +8,7 @@ I am the founder and CEO of [Traversaal.ai](https://traversaal.ai), a company de
 
 **Academic Roles**
 
-In addition to my entrepreneurial endeavors, I serve as an adjunct professor at institutions such as Stanford University, UCLA, MIT, the University of Minnesota, and Oxford. In these roles, I bridge the gap between academic theory and real-world AI applications, sharing my knowledge and experience with the next generation of innovators. :contentReference[oaicite:1]{index=1}
+In addition to my entrepreneurial endeavors, I serve as an adjunct professor at institutions such as Stanford Continuing Education, UCLA, MIT, the University of Minnesota and a few more. In these roles, I bridge the gap between academic theory and real-world AI applications, sharing my knowledge and experience with the next generation of innovators. :contentReference[oaicite:1]{index=1}
 
 **Professional Background**
 
