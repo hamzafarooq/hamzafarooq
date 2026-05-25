@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=CEO+%26+Founder+%40+Traversaal.ai;Adjunct+Professor+%40+Stanford+%7C+UCLA+%7C+MIT;Building+Enterprise+AI+Agents;15K%2B+Newsletter+Subscribers;1%2C500%2B+Students+Trained" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=CEO+%26+Founder+%40+Traversaal.ai;Adjunct+Professor+%40+Stanford+%7C+UCLA+%7C+UMN;Building+Enterprise+AI+Agents;15K%2B+Newsletter+Subscribers;1%2C500%2B+Students+Trained" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https://traversaal.ai) and helping engineers and leaders bridge the gap between AI hype and production reality.
 
 - 🏢 **CEO & Founder** — [Traversaal.ai](https://traversaal.ai), enterprise AI agents (18-person global team)
-- 🎓 **Adjunct Professor** — Stanford Continuing Education, UCLA, MIT, University of Minnesota
+- 🎓 **Adjunct Professor** — Stanford Continuing Education, UCLA, University of Minnesota
 - 📚 **Course Instructor** — 4+ courses, **1,500+ students** on Maven
 - ✍️ **Newsletter** — [The Production Gap](https://boringbot.substack.com) · **15K+ subscribers**
 - 🎤 **Speaker** — International conferences on AI, LLMs, and enterprise ML
