@@ -51,6 +51,13 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 
 ---
 
+## Latest from The Production Gap
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## Featured Repositories
 
 | Repo | Stars | What |
