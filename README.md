@@ -54,11 +54,6 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 ## Latest from The Production Gap
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V4 architecture deep dive](https://boringbot.substack.com/p/deepseek-v4-architecture-deep-dive) · 2026-05-13
-- [AI Agent Harnesses Explained: Architecture, Ecosystem, and Multi-User Design](https://boringbot.substack.com/p/ai-agent-harnesses-explained-architecture) · 2026-05-08
-- [Claude Code: Skills, Subagents, Hooks, Plugins, and Harnesses for Production Multi-Agent Workflows](https://boringbot.substack.com/p/claude-code-skills-subagents-hooks) · 2026-05-05
-- [Claude Design: What it is, how it works, and what real users actually think](https://boringbot.substack.com/p/claude-design-what-it-is-how-it-works) · 2026-05-02
-- [The Ecosystem of Search is changing faster than we know](https://boringbot.substack.com/p/the-ecosystem-of-search-is-changing) · 2026-04-27
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -81,7 +76,6 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=flat-square&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
