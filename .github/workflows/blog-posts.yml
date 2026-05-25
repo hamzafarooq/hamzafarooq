@@ -1,0 +1,19 @@
+name: Update README with latest Substack posts
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 6am UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://boringbot.substack.com/feed"
+          max_post_count: 5
+          readme_path: "README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
