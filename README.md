@@ -58,21 +58,6 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/hamzafarooq?label=Followers&style=for-the-badge&color=2196F3&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/hamzafarooq/building-llm-applications-from-scratch?label=⭐%20Top%20Repo%20Stars&style=for-the-badge&color=FFC107&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Public%20Repos-30%2B-4CAF50?style=for-the-badge&labelColor=0D1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzafarooq&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
 
 ## Tech Stack
 
