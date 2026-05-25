@@ -1,59 +1,103 @@
-### About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=CEO+%26+Founder+%40+Traversaal.ai;Adjunct+Professor+%40+Stanford+%7C+UCLA+%7C+MIT;Building+Enterprise+AI+Agents;15K%2B+Newsletter+Subscribers;1%2C500%2B+Students+Trained" alt="Typing SVG" />
+</div>
 
-Hi, I am Hamza!
+<br/>
 
-**Founder & CEO at Traversaal.ai**
-
-I am the founder and CEO of [Traversaal.ai](https://traversaal.ai), a company dedicated to providing scalable, customizable, and cost-efficient language model solutions for enterprises. Our mission is to revolutionize conversational search with a strong emphasis on security, compliance, user management, and session handling. Our flagship product, Apollo, exemplifies this commitment by offering state-of-the-art capabilities in knowledge retrieval. :contentReference[oaicite:0]{index=0}
-
-**Academic Roles**
-
-In addition to my entrepreneurial endeavors, I serve as an adjunct professor at institutions such as Stanford Continuing Education, UCLA, MIT, the University of Minnesota and a few more. In these roles, I bridge the gap between academic theory and real-world AI applications, sharing my knowledge and experience with the next generation of innovators. :contentReference[oaicite:1]{index=1}
-
-**Professional Background**
-
-With over 15 years of experience in machine learning, my career has spanned multiple continents and industries, including tech, telecommunications, finance, and retail. I have previously held positions as a Senior Research Manager at Google and Walmart Labs, where I led data science and machine learning teams focusing on optimization, natural language processing, recommender systems, and time series forecasting. :contentReference[oaicite:2]{index=2}
-
-**Recent Initiatives**
-
-- **LARGE Initiative**: I spearheaded the LLM Adaptation & Research for General Enterprises (LARGE) initiative, aiming to advance state-of-the-art AI into real-world enterprise applications.
-
-- **ALIF**: I led the development of Urdu LLM, the first state-of-the-art Urdu language model, addressing linguistic and cultural inequities in AI. 
-
-**Public Speaking and Training**
-
-I am a regular speaker at conferences and have led numerous training and consultation sessions for various organizations. My main objective has been to help organizations utilize their data to build large-scale systems that assist with automation, optimization, recommendation, and forecasting. :contentReference[oaicite:4]{index=4}
-
-**Current Focus**
-
-- **Research**: Enhancing my skills as a researcher with a focus on real-world applications.
-- **Learning**: Deepening my understanding of Information Retrieval Systems.
-- **Collaboration**: Seeking opportunities to collaborate on Natural Language Processing (NLP) projects.
-- **Mentorship**: Guiding others through my course on Machine Learning System Design.
-
-**Connect with Me**
-
-- **LinkedIn**: [Hamza Farooq](https://www.linkedin.com/in/hamzafarooq/)
+<div align="center">
+  <a href="https://traversaal.ai">
+    <img src="https://img.shields.io/badge/Traversaal.ai-Enterprise%20AI%20Agents-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamzafarooq/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://boringbot.substack.com">
+    <img src="https://img.shields.io/badge/Substack-Boring%20Bot-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
+  <a href="https://maven.com/boring-bot">
+    <img src="https://img.shields.io/badge/Maven-4%2B%20Courses-7C3AED?style=for-the-badge&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hamzafarooq&label=Profile%20Views&color=2196F3&style=for-the-badge" />
+</div>
 
 ---
 
-### 📌 Featured Repositories
+## About Me
 
-Data Science and Machine Learning are vast and rapidly evolving fields. This GitHub profile is my attempt to explore these domains and share my knowledge.
+I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https://traversaal.ai) and helping engineers and leaders bridge the gap between AI hype and production reality.
 
-[![Building LLM Applications from Scratch](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=building-llm-applications-from-scratch)](https://github.com/hamzafarooq/building-llm-applications-from-scratch)
-[![Advanced LLMs Course](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=advanced-llms-course)](https://github.com/hamzafarooq/advanced-llms-course)
-[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=algos)](https://github.com/hamzafarooq/algos)
-[![Data Structures and Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=DataStructures-Algo)](https://github.com/hamzafarooq/DataStructures-Algo)
-[![NLP with Python](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=NLP-with-Python)](https://github.com/hamzafarooq/NLP-with-Python)
-[![PyCaret](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=pycaret)](https://github.com/hamzafarooq/pycaret)
-[![Predicting Next Word with BERT](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=predicting_next_word_BERT)](https://github.com/hamzafarooq/predicting_next_word_BERT)
-
----
-
-### 📊 GitHub Stats
-
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzafarooq&show_icons=true&theme=radical)
+- 🏢 **CEO & Founder** — [Traversaal.ai](https://traversaal.ai), enterprise AI agents (18-person global team)
+- 🎓 **Adjunct Professor** — Stanford Continuing Education, UCLA, MIT, University of Minnesota
+- 📚 **Course Instructor** — 4+ courses, **1,500+ students** on Maven
+- ✍️ **Newsletter** — [Boring Bot](https://boringbot.substack.com) · **15K+ subscribers**
+- 🎤 **Speaker** — International conferences on AI, LLMs, and enterprise ML
+- 🔬 **Research** — NLP, LLMs, Information Retrieval, Recommender Systems
+- 🏛️ **Former** — Senior Research Manager at **Google** and **Walmart Labs** (15+ years in ML)
 
 ---
 
+## What I'm Building
+
+| Project | What |
+|---------|------|
+| [Traversaal.ai](https://traversaal.ai) | Scalable, customizable enterprise AI agents |
+| [Boring Bot](https://boringbot.substack.com) | Weekly AI newsletter — from research to production |
+| Maven Courses | Advanced LLMs · Multi-Agent Systems · ML System Design · LLM Applications |
+| [ALIF Project](https://github.com/hamzafarooq/ilm-khushhal-alif-tutor) | Urdu language model addressing linguistic inequities in AI |
+
+---
+
+## Featured Repositories
+
+| Repo | Stars | What |
+|------|:-----:|------|
+| [building-llm-applications-from-scratch](https://github.com/hamzafarooq/building-llm-applications-from-scratch) | ![Stars](https://img.shields.io/github/stars/hamzafarooq/building-llm-applications-from-scratch?style=social) | Build LLM-powered apps end-to-end — RAG, agents, eval, deployment |
+| [advanced-llms-course](https://github.com/hamzafarooq/advanced-llms-course) | ![Stars](https://img.shields.io/github/stars/hamzafarooq/advanced-llms-course?style=social) | Advanced LLM techniques: fine-tuning, RLHF, alignment, inference |
+| [multi-agent-course](https://github.com/hamzafarooq/multi-agent-course) | ![Stars](https://img.shields.io/github/stars/hamzafarooq/multi-agent-course?style=social) | Multi-agent systems with LangGraph, CrewAI, and custom frameworks |
+| [claude-code-starter](https://github.com/hamzafarooq/claude-code-starter) | ![Stars](https://img.shields.io/github/stars/hamzafarooq/claude-code-starter?style=social) | Starter kit for AI-assisted development with Claude Code |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/hamzafarooq?label=Followers&style=for-the-badge&color=2196F3&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/hamzafarooq/building-llm-applications-from-scratch?label=⭐%20Top%20Repo%20Stars&style=for-the-badge&color=FFC107&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Public%20Repos-30%2B-4CAF50?style=for-the-badge&labelColor=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzafarooq&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <i>If any of my open-source work has helped you, consider giving it a ⭐</i>
+  <br/><br/>
+  <a href="https://traversaal.ai">traversaal.ai</a> · 
+  <a href="https://boringbot.substack.com">newsletter</a> · 
+  <a href="https://www.linkedin.com/in/hamzafarooq/">linkedin</a> · 
+  <a href="https://maven.com/boring-bot">courses</a>
+</div>
