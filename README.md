@@ -29,7 +29,7 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 - 🏢 **CEO & Founder** — [Traversaal.ai](https://traversaal.ai), enterprise AI agents (18-person global team)
 - 🎓 **Adjunct Professor** — Stanford Continuing Education, UCLA, MIT, University of Minnesota
 - 📚 **Course Instructor** — 4+ courses, **1,500+ students** on Maven
-- ✍️ **Newsletter** — [Boring Bot](https://boringbot.substack.com) · **15K+ subscribers**
+- ✍️ **Newsletter** — [The Production Gap](https://boringbot.substack.com) · **15K+ subscribers**
 - 🎤 **Speaker** — International conferences on AI, LLMs, and enterprise ML
 - 🔬 **Research** — NLP, LLMs, Information Retrieval, Recommender Systems
 - 🏛️ **Former** — Senior Research Manager at **Google** and **Walmart Labs** (15+ years in ML)
@@ -41,7 +41,7 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 | Project | What |
 |---------|------|
 | [Traversaal.ai](https://traversaal.ai) | Scalable, customizable enterprise AI agents |
-| [Boring Bot](https://boringbot.substack.com) | Weekly AI newsletter — from research to production |
+| [The Production Gap](https://boringbot.substack.com) | Weekly AI newsletter — from research to production |
 | Maven Courses | Advanced LLMs · Multi-Agent Systems · ML System Design · LLM Applications |
 | [ALIF Project](https://github.com/hamzafarooq/ilm-khushhal-alif-tutor) | Urdu language model addressing linguistic inequities in AI |
 
