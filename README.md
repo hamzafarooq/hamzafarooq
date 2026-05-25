@@ -12,10 +12,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://boringbot.substack.com">
-    <img src="https://img.shields.io/badge/Substack-Boring%20Bot-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Substack-The%20Production%20Gap-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
   </a>
   <a href="https://maven.com/boring-bot">
     <img src="https://img.shields.io/badge/Maven-4%2B%20Courses-7C3AED?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://traversaal.ai/academy/courses">
+    <img src="https://img.shields.io/badge/Free%20Courses-Traversaal%20Academy-00897B?style=for-the-badge&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=hamzafarooq&label=Profile%20Views&color=2196F3&style=for-the-badge" />
 </div>
@@ -42,7 +45,8 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 |---------|------|
 | [Traversaal.ai](https://traversaal.ai) | Scalable, customizable enterprise AI agents |
 | [The Production Gap](https://boringbot.substack.com) | Weekly AI newsletter — from research to production |
-| Maven Courses | Advanced LLMs · Multi-Agent Systems · ML System Design · LLM Applications |
+| [Maven Courses](https://maven.com/boring-bot) | Advanced LLMs · Multi-Agent Systems · ML System Design · LLM Applications |
+| [Free Courses](https://traversaal.ai/academy/courses) | Self-paced AI courses via Traversaal Academy |
 | [ALIF Project](https://github.com/hamzafarooq/ilm-khushhal-alif-tutor) | Urdu language model addressing linguistic inequities in AI |
 
 ---
