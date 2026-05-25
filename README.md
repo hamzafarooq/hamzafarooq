@@ -30,7 +30,7 @@
 I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https://traversaal.ai) and helping engineers and leaders bridge the gap between AI hype and production reality.
 
 - 🏢 **CEO & Founder** — [Traversaal.ai](https://traversaal.ai), enterprise AI agents (18-person global team)
-- 🎓 **Adjunct Professor** — Stanford Continuing Education, UCLA, University of Minnesota
+- 🎓 **Adjunct Professor** — Stanford Continuing Studies, UCLA, University of Minnesota
 - 📚 **Course Instructor** — 4+ courses, **1,500+ students** on Maven
 - ✍️ **Newsletter** — [The Production Gap](https://boringbot.substack.com) · **15K+ subscribers**
 - 🎤 **Speaker** — International conferences on AI, LLMs, and enterprise ML
