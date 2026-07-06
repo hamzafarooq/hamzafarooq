@@ -54,11 +54,11 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 ## Latest from The Production Gap
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Stack Engineering for Product Managers](https://boringbot.substack.com/p/full-stack-for-product-managers) · 2026-06-26
 - [Self-Improving Agents: A step closer to AGI](https://boringbot.substack.com/p/using-claude-code-to-build-self-improving) · 2026-06-03
 - [Claude Code token optimization - best practices](https://boringbot.substack.com/p/how-to-save-millions-in-claude-tokens) · 2026-05-29
 - [DeepSeek V4 architecture deep dive](https://boringbot.substack.com/p/deepseek-v4-architecture-deep-dive) · 2026-05-13
 - [AI Agent Harnesses Explained: Architecture, Ecosystem, and Multi-User Design](https://boringbot.substack.com/p/ai-agent-harnesses-explained-architecture) · 2026-05-08
-- [Claude Code: Skills, Subagents, Hooks, Plugins, and Harnesses for Production Multi-Agent Workflows](https://boringbot.substack.com/p/claude-code-skills-subagents-hooks) · 2026-05-05
 <!-- BLOG-POST-LIST:END -->
 
 ---
