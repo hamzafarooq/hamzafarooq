@@ -54,11 +54,11 @@ I'm **Hamza Farooq** — building enterprise AI agents at [Traversaal.ai](https:
 ## Latest from The Production Gap
 
 <!-- BLOG-POST-LIST:START -->
+- [A 3 minute peek into what our FDEs built](https://boringbot.substack.com/p/a-3-minute-peek-into-what-our-fdes) · 2026-10-28
+- [Explainer Video Series: Why is our self-hosted LLM fast in the pilot, but slow in production?](https://boringbot.substack.com/p/explainer-video-series-why-is-our) · 2026-10-23
 - [The hype of Jev Explained: A Deep dive and What Is a Decision Model AI?](https://boringbot.substack.com/p/the-hype-of-jev-explained-a-deep) · 2026-09-23
 - [Voice Agents: A deep dive](https://boringbot.substack.com/p/voice-agents-a-deep-dive) · 2026-07-27
 - [Full Stack Engineering for Product Managers](https://boringbot.substack.com/p/full-stack-for-product-managers) · 2026-06-26
-- [Self-Improving Agents: A step closer to AGI](https://boringbot.substack.com/p/using-claude-code-to-build-self-improving) · 2026-06-03
-- [Claude Code token optimization - best practices](https://boringbot.substack.com/p/how-to-save-millions-in-claude-tokens) · 2026-05-29
 <!-- BLOG-POST-LIST:END -->
 
 ---
